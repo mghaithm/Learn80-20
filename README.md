@@ -34,7 +34,7 @@ Perfect for:
 
 ## 🛠 Tech Stack
 - **Next.js** – Frontend & backend (API routes)
-- **OpenAI API** – The brains of the operation
+- **Together AI** – The brains of the operation
 - **Tailwind CSS** – For looking clean while being lazy
 - **Vercel** – So I don’t have to think about servers
 
